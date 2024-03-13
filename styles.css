@@ -181,7 +181,7 @@ Countdown Timer
   margin-bottom: 2rem;
 }
 .gift-info h3 {
-  text-transform: uppercase;
+  text-transform: capitalize;
   color: var(--clr-primary-3);
 }
 .gift-info p {
